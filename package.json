@@ -1,0 +1,20 @@
+{
+  "name": "Objects-in-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlaaEl-DinAhmed/Objects-in-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlaaEl-DinAhmed/Objects-in-JS/issues"
+  },
+  "homepage": "https://github.com/AlaaEl-DinAhmed/Objects-in-JS#readme"
+}
